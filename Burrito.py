@@ -1,3 +1,4 @@
+print ("abc")
 # Copy your Burrito class from the last exercise. Now, add
 # a method called "get_cost" to the Burrito class. It should
 # accept zero arguments (except for "self", of course) and
